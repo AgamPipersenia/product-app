@@ -40,7 +40,7 @@ This is a simple Product Management System built using React (Next.js), Node.js,
     git clone https://github.com/AgamPipersenia/product-app.git
     ```
 
-2. Install dependencies:
+2. Install dependencies inside the backend folder:
     ```sh
     npm install
     ```
